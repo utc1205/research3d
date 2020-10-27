@@ -21,7 +21,7 @@
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/face_registration.gif)
 
 
-3D glass Virtual try-on
+3D glasses Virtual try-on
 ----------------------------------------
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/landmarkdetection.gif)
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/glass_try_on.gif)
