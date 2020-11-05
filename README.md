@@ -26,4 +26,4 @@
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/landmarkdetection.gif)
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/glass_try_on.gif)
 
-部分照片来源于网络，如侵犯到您的权益，请及时通知我，我将在第一时间内删除。
+部分人脸来源于网络，如侵犯到您的权益，请及时通知我，我将在第一时间内删除。
