@@ -19,7 +19,7 @@
 3D face edite for medical cosmetology
 --------------------------------------
 
-![3dfaceedite](https://github.com/utc1205/research3d/blob/main/face3Dedite.gif)
+![3dfaceedite](https://github.com/utc1205/research3d/blob/main/demo_show.gif)
 
 
 3D scanned face registration
