@@ -33,7 +33,6 @@ monocular 3D obstacle detection
 
 3D glasses Virtual try-on
 ----------------------------------------
-![3dfaceedite](https://github.com/utc1205/research3d/blob/main/landmarkdetection.gif)
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/glass_try_on.gif)
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/glassestryon.gif)
 
