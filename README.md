@@ -16,9 +16,6 @@ monocular 3D obstacle detection
 ---------------------------------------------------
 ![3dfaceedite](https://github.com/utc1205/research3d/blob/main/head_hair_geometry.gif)
 
-![3dfaceedite](https://github.com/utc1205/research3d/blob/main/head_hair.gif)
-
-![3dfaceedite](https://github.com/utc1205/research3d/blob/main/2.jpg)
 
 3D face edite for medical cosmetology
 --------------------------------------
